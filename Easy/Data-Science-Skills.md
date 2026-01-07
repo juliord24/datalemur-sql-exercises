@@ -18,10 +18,10 @@ Write a query to list the candidates who possess all of the required skills for 
 
 ### `candidates` Table:
 
-| Column Name  | Type    |
-|--------------|---------||
+| Column Name | Type |
+|--------------|---------|  
 | candidate_id | integer |
-| skill        | varchar |
+| skill | varchar 
 
 ## Example Input
 
