@@ -20,7 +20,7 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 ├── Easy/
 ├── Medium/
 └── Hard/
-
+```
 ## ✅ Completed Exercises
 
 ### Easy Level
@@ -80,6 +80,34 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 14. [Patient Support Analysis (Part 1)](./Easy/Patient-Support-Analysis-Part-1.md) - UnitedHealth
    - **Topics:** CTE, GROUP BY, HAVING, COUNT
    - **Description:** Find how many UHG policy holders made three or more calls
+
+   - 15. [Pharmacy Analytics (Part 1)](./Easy/Pharmacy-Analytics-Part-1.md) - CVS Health
+   - **Topics:** ORDER BY, LIMIT, Calculations
+   - **Description:** Find the top 3 most profitable drugs and their profits
+
+16. [Second Day Confirmation](./Easy/Second-Day-Confirmation.md) - TikTok
+   - **Topics:** INNER JOIN, Date/Time Functions
+   - **Description:** Display user IDs who confirmed their signup on the second day
+
+17. [Teams Power Users](./Easy/Teams-Power-Users.md) - Microsoft
+   - **Topics:** GROUP BY, COUNT, ORDER BY, LIMIT
+   - **Description:** Identify top 2 power users who sent the most messages
+
+18. [Unfinished Parts](./Easy/Unfinished-Parts.md) - Tesla
+   - **Topics:** JOIN, WHERE, IS NULL
+   - **Description:** Find assembly parts without completed dates
+
+19. [Well Paid Employees](./Easy/Well-Paid-Employees.md) - FAANG
+   - **Topics:** Self-join, Comparison
+   - **Description:** Identify employees earning more than their managers
+
+20. [App Click-through Rate (CTR)](./Easy/App-Click-through-Rate.md) - Facebook
+   - **Topics:** CASE WHEN, Percentage Calculations
+   - **Description:** Calculate click-through rate for Facebook app in 2022
+
+21. [Cards Issued Difference](./Easy/Cards-Issued-Difference.md) - JPMorgan
+   - **Topics:** ORDER BY, Window Functions
+   - **Description:** Find the difference in issued cards between months
 
 ## 🎯 Goals
 
