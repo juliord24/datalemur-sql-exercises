@@ -18,23 +18,8 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 
 ```
 ├── Easy/
-│   ├── Average-Post-Hiatus-Part-1.md
-│   ├── Average-Review-Ratings.md
-│   ├── Cities-With-Completed-Trades.md
-│   ├── Data-Science-Skills.md
-│   ├── Duplicate-Job-Listings.md
-│   ├── Histogram-of-Tweets.md
-│   ├── Laptop-vs-Mobile-Viewership.md
-│   ├── Page-With-No-Likes.md
-   |   |—— Patient-Support-Analysis-Part-1.md
-   |   |—— Pharmacy-Analytics-Part-2.md
-   |   |—— Pharmacy-Analytics-Part-3.md
-│   ├── Teams-Power-Users.md
-│   ├── Unfinished-Parts.md
-│   └── Well-Paid-Employees.md
 ├── Medium/
 └── Hard/
-```
 
 ## ✅ Completed Exercises
 
