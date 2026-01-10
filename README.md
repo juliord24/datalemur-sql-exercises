@@ -9,10 +9,10 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 
 | Difficulty | Solved | Total |
 |------------|--------|-------|
-| Easy | 11 | 85 |
+| Easy | 21 | 85 |
 | Medium | 0 | 103 |
 | Hard | 0 | 48 |
-| **Total** | **11** | **236** |
+| **Total** | **21** | **236** |
 
 ## 📁 Repository Structure
 
@@ -26,6 +26,9 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 │   ├── Histogram-of-Tweets.md
 │   ├── Laptop-vs-Mobile-Viewership.md
 │   ├── Page-With-No-Likes.md
+   |   |—— Patient-Support-Analysis-Part-1.md
+   |   |—— Pharmacy-Analytics-Part-2.md
+   |   |—— Pharmacy-Analytics-Part-3.md
 │   ├── Teams-Power-Users.md
 │   ├── Unfinished-Parts.md
 │   └── Well-Paid-Employees.md
@@ -80,6 +83,18 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 11. [Well Paid Employees](./Easy/Well-Paid-Employees.md) - FAANG
     - **Topics:** Self-join, Comparison
     - **Description:** Identify employees earning more than their managers
+    - 
+12. [Pharmacy Analytics (Part 2)](./Easy/Pharmacy-Analytics-Part-2.md) - CVS Health
+   - **Topics:** Self-join, Comparison
+   - **Description:** Identify manufacturers with drugs that resulted in losses for CVS Health
+
+13. [Pharmacy Analytics (Part 3)](./Easy/Pharmacy-Analytics-Part-3.md) - CVS Health
+   - **Topics:** CONCAT, ROUND, Aggregate Functions
+   - **Description:** Calculate total drug sales for each manufacturer and format results
+
+14. [Patient Support Analysis (Part 1)](./Easy/Patient-Support-Analysis-Part-1.md) - UnitedHealth
+   - **Topics:** CTE, GROUP BY, HAVING, COUNT
+   - **Description:** Find how many UHG policy holders made three or more calls
 
 ## 🎯 Goals
 
