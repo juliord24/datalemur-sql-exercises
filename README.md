@@ -10,10 +10,9 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 | Difficulty | Solved | Total |
 |------------|--------|-------|
 | Easy | 21 | 85 |
-| Medium | 0 | 103 |
+| Medium | 1 | 103 |
 | Hard | 0 | 48 |
-| **Total** | **21** | **236** |
-
+| **Total** | **22** | **236** |
 ## 📁 Repository Structure
 
 ```
@@ -108,6 +107,12 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 21. [Cards Issued Difference](./Easy/Cards-Issued-Difference.md) - JPMorgan
    - **Topics:** ORDER BY, Window Functions
    - **Description:** Find the difference in issued cards between months
+
+   - ### Medium Level
+
+1. [User's Third Transaction](./Medium/Users-Third-Transaction.md) - Uber
+   - **Topics:** Window Functions, CTE
+   - **Description:** Write a query to obtain the third transaction of every user
 
 ## 🎯 Goals
 
