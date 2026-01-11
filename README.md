@@ -24,7 +24,7 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 
 ## 🎯 Goals
 
-- Practice SQL for data analyst and data science interviews
+- Practice SQL for data analyst interviews
 - Build a comprehensive portfolio of SQL solutions
 - Document my learning journey and approaches to solving problems
 - Master different SQL concepts including JOINs, window functions, CTEs, and more
