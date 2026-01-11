@@ -10,9 +10,10 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 | Difficulty | Solved | Total |
 |------------|--------|-------|
 | Easy | 21 | 85 |
-| Medium | 1 | 103 |
+| Medium | 5 | 103 |
 | Hard | 0 | 48 |
-| **Total** | **22** | **236** |
+| **Total** | **26** | **236** |
+
 ## 📁 Repository Structure
 
 ```
@@ -20,6 +21,7 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 ├── Medium/
 └── Hard/
 ```
+
 ## 🎯 Goals
 
 - Practice SQL for data analyst and data science interviews
@@ -36,6 +38,7 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 ## 📝 Notes
 
 Each solution file includes:
+
 - Problem description with example input/output
 - My SQL solution
 - Explanation of the approach
