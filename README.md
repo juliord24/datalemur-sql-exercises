@@ -10,9 +10,9 @@ This repository contains my solutions to SQL exercises from [DataLemur](https://
 | Difficulty | Solved | Total |
 |------------|--------|-------|
 | Easy | 21 | 85 |
-| Medium | 8 | 103 |
+| Medium |188 | 103 |
 | Hard | 0 | 48 |
-| **Total** | **29* | *236* |
+| **Total** 39*29* | *236* |
 
 ## 📁 Repository Structure
 
